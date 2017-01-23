@@ -1,0 +1,51 @@
+# class notes
+
+
+what are the levels of a computer?
+
+*I was downloading nano but we discussed assembly, the OS, Instruction Structure?, and some other things*
+
+
+Noted the three main Process Management, Memory Management, Storage Management. Big 3. 
+
+He won't have time to cover the security section since this is an introductory class - we should read on our own for the good of it. 
+
+	Computer system is 4 parts:
+		
+		Hardware
+
+		Operating System
+
+		Application Programs
+
+		Users
+
+
+
+Operating system is all about resources: network, hdd, cpu, gpu, ram, I/O etc
+
+
+Operating system is a CONTROL PROGRAM and a RESOURCE ALLOCATOR
+	-prevents errors and improper use of computer
+
+
+Operating system should OPTIMIZE not just operate
+	-We must build lots of mathematical models to find the most optimal way to do it. Algorithms.
+
+Kernel is loaded into the main memory from storage since it's too big
+
+
+SIDE NOTES DURING THIS LECTURE: WHAT IS THE PROF TRYING TO COMMUNICATE:
+
+	what is an operating systems job?: manage resources, control program. Optimize, algorithms. Kernel!
+
+END SIDTE NOTE
+
+
+Bootstrap program stored in eprom or something like that and is known as FIRMWARE
+	-initializes all aspects of system
+	-Loads Kernel
+
+Interrupts work through an interrupt vector (vector having many values in it) -> Trap or Exception
+
+our OS is interrupt driven.
