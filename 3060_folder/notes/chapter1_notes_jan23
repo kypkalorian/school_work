@@ -49,3 +49,8 @@ Bootstrap program stored in eprom or something like that and is known as FIRMWAR
 Interrupts work through an interrupt vector (vector having many values in it) -> Trap or Exception
 
 our OS is interrupt driven.
+
+
+
+End of Class notes:
+home work is due on the 27
