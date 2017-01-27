@@ -1,0 +1,5 @@
+echo building
+make clean
+make assn1
+./assn1.exe this is a test please work
+echo finished
