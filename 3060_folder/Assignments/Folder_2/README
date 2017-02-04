@@ -1,0 +1,19 @@
+Objective:
+
+In this assignment, you will be writing a program that performs the fork() and exec() system calls. You will demonstrate that you understand how to properly interpret the output of the fork() system call as well as the proper place to use the exec() system call.
+Details:
+
+Your program will call the fork() system call at the very start. The parent process will display a message indicating it has started and will then wait for a specific child process ID to complete. Once the child process has completed, the parent process will display a message indicating that the child is complete and the parent will now terminate.
+
+The child process will display a message indicating that it has started. If one or more arguments were provided on the command line, the child process will perform the appropriate exec() system call to load the new executable into memory with the appropriate arguments if provided. If no arguments were provided, the child process will display a message indicating that it will terminate.
+
+
+1- call fork() at the very start
+
+2- Parent Process prints "started"
+
+3- Parent Process waits for specific child ID??
+
+4- Child uses EXEC() to use command line arguments to load a new executable
+
+5- If no arguments, child will display a message indicating this
