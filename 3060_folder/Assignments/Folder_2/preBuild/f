@@ -1,5 +1,0 @@
-echo building
-make clean
-make assn2
-./assn2 "/bin/ls" ls
-echo done

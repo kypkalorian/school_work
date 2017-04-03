@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
@@ -48,3 +49,14 @@ int main(int argc, char *argv[]){
 
 
 
+=======
+//starting with pseudo code
+
+
+//Programs needs to READ list of process start times and durations from STDIN
+	//gonna use ARGC/ARGV and what not
+
+
+//4 functions
+	//looping through each one to manage processes from start to finish
+>>>>>>> 7974c35e25fe139d7096fc9e1e3c9ec36d96f18a

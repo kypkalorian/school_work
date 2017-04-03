@@ -1,5 +1,0 @@
-echo building
-make clean
-make assn1
-./assn1 this is a test please work
-echo finished
