@@ -1,0 +1,5 @@
+clear
+make clean
+make assn5
+clear
+./assn5

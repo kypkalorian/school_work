@@ -1,0 +1,25 @@
+//starting with pseudo code
+
+
+//Programs needs to READ list of process start times and durations from STDIN
+	//gonna use ARGC/ARGV and what not
+
+
+//4 functions
+	//looping through each one to manage processes from start to finish
+
+#include <stdio.h>
+#include <unistd.h>
+#include <stdlib.h>
+
+
+int main(int argc, char *argv[]){
+
+	//Goal, read in files and call 4 dummy functions
+
+
+
+
+}
+
+

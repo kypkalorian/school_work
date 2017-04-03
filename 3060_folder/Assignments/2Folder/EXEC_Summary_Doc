@@ -1,0 +1,87 @@
+int EXEC //So i guess exec is an int?
+
+
+===============
+
+EXEC_L_:
+
+const char *path
+const char *arg
+...
+NULL
+
+==============
+
+exec_LP_:
+
+const char file
+const char *arg
+...
+NULL
+
+=================
+
+EXEC_LE_:
+
+const char *path
+const char *arg
+...
+NULL
+char *const envp[]]
+
+
+================
+
+EXEC_V_:
+char *PATH
+char *argv[]
+
+EXEC_VP_:
+char *FILE
+char *argv[]
+
+EXEC_VPE_:
+char *FILE
+char * argv[]
+char * envp[]
+
+
+
+
+==================
+Summary
+==================
+
+There are two exec types
+
+EXECL AND EXECV
+
+Each side has:
+
+The basic EXECL/V which uses a path pointer
+
+They both have an EXEC LP and VP which uses the file pointer
+
+Both have lE and VPE which have a pointer to ENVP[] whatever that is
+
+L/V * PATH
+LP/VP * FILE
+LE/VPE * PATH/FILE
+
+
+
+L: they pass the arguments one at a time followed by NULL;
+
+V: Pass arguments as a char * argv[];
+
+
+the one's with E include ENVP[]
+
+//More notes:
+
+For assignment 2 I will most likely use a while loop to fill up a char * array to be passed to exec[arg]V INSTEAD of execL[ist]
+
+
+Example code?
+
+10 array and fill the rest up with NULLS? test this

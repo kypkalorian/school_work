@@ -1,0 +1,44 @@
+
+/*
+		while(0)
+        {
+
+
+			if( flag[idx]  == '\0' ){
+				printf("break\n");
+				break;
+			}
+			else if( flag[idx]  == '\n' ){
+				passback2 = converter(holder2);
+				printf("newline!\n");
+			}
+			else if(flag[idx] == ' '){
+				passback1 = converter(holder);
+				ind = 1;
+				printf("switch!\n");
+			}	//1- store first number as char, break on space
+			else{
+				if(ind == 0){
+					holder[idx1] = flag[idx];s
+					printf("copying1: '%c'\n",flag[idx]);
+					idx1++;
+				}
+				else if(ind == 1){
+					holder2[idx2] = flag[idx];
+					printf("copying2: '%c'\n",flag[idx]);
+					idx2++;
+				}
+				else{
+					printf("error indicating wtf was going on\n");
+				}
+
+			}
+
+			idx++;
+
+
+		}//inner loop - disabled
+		//--------------------------------------->
+
+
+		*/

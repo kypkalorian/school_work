@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1491191384 source:/home/colin/Desktop/assn5/b_file/assignment5/functions.c
+	"functions.h"
+
+1491179201 /home/colin/Desktop/assn5/b_file/assignment5/functions.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+
+1491192564 source:/home/colin/Desktop/assn5/b_file/assignment5/main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1491191342 source:/home/colin/Desktop/assn5/b_file/assignment5/functions2.c
+	"functions.h"
+
+1491191384 source:/home/colin/Desktop/schoolwork/3060_folder/Assignments/assn5/b_file/assignment5/functions.c
+	"functions.h"
+
+1491201123 /home/colin/Desktop/schoolwork/3060_folder/Assignments/assn5/b_file/assignment5/functions.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+
+1491201294 source:/home/colin/Desktop/schoolwork/3060_folder/Assignments/assn5/b_file/assignment5/main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1491201259 source:/home/colin/Desktop/schoolwork/3060_folder/Assignments/assn5/b_file/assignment5/firstcome.c
+	"functions.h"
+
+1491199674 source:/home/colin/Desktop/schoolwork/3060_folder/Assignments/assn5/b_file/assignment5/functions2.c
+	"functions.h"
+
