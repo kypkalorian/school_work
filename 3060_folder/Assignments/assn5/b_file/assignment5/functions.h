@@ -34,6 +34,8 @@ void arrivals(struct process * structArray, int clock);
 
 void clock_tick(struct process * structArray, int clock);
 
+int checkEnd(struct process * structArray);
+
 
 
 

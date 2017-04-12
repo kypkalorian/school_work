@@ -34,6 +34,11 @@ void firstCome(struct process *structArray){
 
         clock_tick(structArray, clock);
 
+        if(checkEnd(structArray) < 0){
+            printf("exiting!\n");
+            break;
+        }
+
         currentProcess = -1;
         //rintf("clock!");
         clock++;
