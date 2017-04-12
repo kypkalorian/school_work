@@ -40,3 +40,43 @@
 1491199674 source:/home/colin/Desktop/schoolwork/3060_folder/Assignments/assn5/b_file/assignment5/functions2.c
 	"functions.h"
 
+1491938941 source:/home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/functions.c
+	"functions.h"
+
+1491959208 /home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/functions.h
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+
+1491938941 source:/home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/functions2.c
+	"functions.h"
+
+1491960278 source:/home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1491962651 source:/home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/firstcome.c
+	"functions.h"
+
+1491948835 source:/home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/fcfs_getReady.c
+	"functions.h"
+
+1491946124 source:/home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/firstcomehelper.c
+	"functions.h"
+
+1491957157 source:/home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/arrivals.c
+	"functions.h"
+
+1491960299 source:/home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/clock_tick.c
+	"functions.h"
+
+1491956509 source:/home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/getReady.c
+	"functions.h"
+
+1491959359 source:/home/colin/Desktop/school_work/3060_folder/Assignments/assn5/b_file/assignment5/selectReady.c
+	"functions.h"
+

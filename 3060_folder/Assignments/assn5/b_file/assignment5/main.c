@@ -89,11 +89,15 @@ int main(int argc, char *argv[]){
         pArray[index].waitTime = 0;
         pArray[index].completeTime = -1; //marked unused
         pArray[index].firstRunTime = -1; //marked unused
-
-
+        pArray[index].processStatus = 0;
+        /*
+            WAITING = 1,
+            FINISHED = 3,
+            CURRENT = 2,
+            NOT_ARR = 0,
+        */
 
         //call process thingers
-
 
 
 
@@ -106,6 +110,15 @@ int main(int argc, char *argv[]){
 
 		index++;
 	}//End While
+
+
+//    int asdf = 20;
+//    while(asdf < 99){
+//        printf(" [%d]  \n", pArray[25].processingTime);
+//        asdf++;
+//    }
+//
+//    getchar();
 
 	firstCome(pArray);
 
@@ -132,6 +145,8 @@ int main(int argc, char *argv[]){
 
 
 	printf("exiting!\n");
+	//getchar();
+
 	return 0;
 
 }//end main function
